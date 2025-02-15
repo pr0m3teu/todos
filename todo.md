@@ -6,13 +6,15 @@
 - [ ] Genetic Random Name Generator Website 
 - [ ] Rope Data Structure Library in C
 - [ ] Bird Flock Simulator
-- [ ] A* Algorithm Implementation
+- [x] A* Algorithm Implementation
 - [ ] Game Engine
-- [ ] PDF Parser :
+- [ ] PDF Parser 
+- [ ] Chat bot assistent
 
 ## Smaller Priority
 - [ ] Falling sand simulator
-- [ ] Tetris Clone?
-- [ ] Neural Network library?
+- [ ] Tetris Clone
+- [ ] Neural Network library
+- [ ] Image Diffuser
 
 
